@@ -8,8 +8,6 @@ github.com/mattn/go-sqlite3 v1.14.9/go.mod h1:NyWgC/yNuGj7Q9rpYnZvas74GogHl5/Z4A
 github.com/paulmach/orb v0.3.0 h1:JVitu/3sn0eslA0XGWfibiyNk+QNRAp9+oO5db53a7o=
 github.com/paulmach/orb v0.3.0/go.mod h1:FkcWtplUAIVqAuhAOV2d3rpbnQyliDOjOcLW9dUrfdU=
 github.com/paulmach/protoscan v0.2.1-0.20210522164731-4e53c6875432/go.mod h1:2sV+uZ/oQh66m4XJVZm5iqUZ62BN88Ex1E+TTS0nLzI=
-github.com/twpayne/go-mbtiles v0.0.0-20190324113752-9fd6adc6db28 h1:ULqqhqKfQoO8uTuhNG2ky70YLmJbW6tyL0PkwIs8mAA=
-github.com/twpayne/go-mbtiles v0.0.0-20190324113752-9fd6adc6db28/go.mod h1:HAe0IjxAfir1VTbV/wcGc7DiAnozDNsKhwRtQz5XlDc=
 github.com/yuin/goldmark v1.1.27/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.2.1/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
